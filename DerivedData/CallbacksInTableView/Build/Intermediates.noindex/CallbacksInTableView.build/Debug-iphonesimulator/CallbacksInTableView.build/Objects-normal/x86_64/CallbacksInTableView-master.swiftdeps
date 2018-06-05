@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "e4b9578b4c3183d853aeb7c2d1924206"
+build_time: [1528231547, 29531000]
+inputs:
+  "/Users/jahidhasanpolash/Documents/code/Personal/CallbacksInTableView/CallbacksInTableView/CustomButtonCell.swift": [1528230632, 0]
+  "/Users/jahidhasanpolash/Documents/code/Personal/CallbacksInTableView/CallbacksInTableView/CustomTFCell.swift": [1528231503, 0]
+  "/Users/jahidhasanpolash/Documents/code/Personal/CallbacksInTableView/CallbacksInTableView/CustomTableViewController.swift": [1528231102, 0]
+  "/Users/jahidhasanpolash/Documents/code/Personal/CallbacksInTableView/CallbacksInTableView/AppDelegate.swift": [1528229567, 0]
